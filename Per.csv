@@ -1,0 +1,2190 @@
+Gender	Frequency	Fragrance	Perfume
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Strong	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Strong	Fresh	Chanel Cristalle Eau de Parfum
+Male	Strong	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Strong	Floral	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Strong	Floral	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Strong	Fruity	Michael Kors Sexy Ruby Eau de Parfum
+Male	Strong	Fruity	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Strong	Sweet	Thierry Mugler Angel Eau de Parfum
+Male	Strong	Sweet	Armani Code Profumo Eau de Parfum
+Female	Strong	Woody	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Strong	Woody	Tom Ford Tobacco Oud Eau de Parfum
+Female	Strong	Aromatic	Estee Lauder Beautiful Eau de Parfum
+Male	Strong	Aromatic	Chanel Bleu de Chanel Eau de Parfum
+Female	Strong	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Strong	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Leathery	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Leathery	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Fresh	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Fresh	 Dior Homme Cologne                              
+Female	Subtle	Floral	 Chloe Eau de Parfum                             
+Male	Subtle	Floral	 Paco Rabanne 1 Million Cologne                  
+Female	Subtle	Fruity	 Marc Jacobs Daisy Eau de Toilette               
+Male	Subtle	Fruity	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Subtle	Sweet	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Subtle	Sweet	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Subtle	Woody	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Subtle	Woody	 Dior Sauvage Eau de Parfum                      
+Female	Subtle	Aromatic	 Calvin Klein Eternity Eau de Parfum             
+Male	Subtle	Aromatic	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Subtle	Oriental	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Oriental	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Leathery	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Leathery	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Fresh	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Fresh	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Balanced	Floral	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Balanced	Floral	 Dior Homme Eau de Toilette                      
+Female	Balanced	Fruity	 DKNY Be Delicious Eau de Parfum                 
+Male	Balanced	Fruity	 Versace Eros Eau de Toilette                    
+Female	Balanced	Sweet	 Prada Candy Eau de Parfum                       
+Male	Balanced	Sweet	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Balanced	Woody	 Diptyque Tam Dao Eau de Parfum                  
+Male	Balanced	Woody	 Creed Aventus Eau de Parfum                     
+Female	Balanced	Aromatic	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Balanced	Aromatic	Montblanc Explorer Eau de Parfum
+Female	Balanced	Oriental	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Balanced	Oriental	Giorgio Armani Code Eau de Toilette
+Female	Subtle	Leathery	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Subtle	Leathery	Amouage Interlude Man Eau de Parfum
+Female	Subtle	Fresh	Chanel Cristalle Eau de Parfum
+Male	Subtle	Fresh	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Strong	Sweet	Montblanc Explorer Eau de Parfum
+Female	Strong	Woody	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Strong	Woody	Giorgio Armani Code Eau de Toilette
+Female	Strong	Aromatic	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Aromatic	Amouage Interlude Man Eau de Parfum
+Female	Strong	Oriental	Chanel Cristalle Eau de Parfum
+Male	Strong	Oriental	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Strong	Sweet	Montblanc Explorer Eau de Parfum
+Female	Strong	Woody	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Strong	Woody	Giorgio Armani Code Eau de Toilette
+Female	Strong	Aromatic	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Aromatic	Amouage Interlude Man Eau de Parfum
+Female	Strong	Oriental	Chanel Cristalle Eau de Parfum
+Male	Strong	Oriental	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Strong	Sweet	Montblanc Explorer Eau de Parfum
+Female	Strong	Woody	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Strong	Woody	Giorgio Armani Code Eau de Toilette
+Female	Strong	Aromatic	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Aromatic	Amouage Interlude Man Eau de Parfum
+Female	Strong	Oriental	Chanel Cristalle Eau de Parfum
+Male	Strong	Oriental	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Strong	Sweet	Montblanc Explorer Eau de Parfum
+Female	Strong	Woody	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Strong	Woody	Giorgio Armani Code Eau de Toilette
+Female	Strong	Aromatic	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Aromatic	Amouage Interlude Man Eau de Parfum
+Female	Strong	Oriental	Chanel Cristalle Eau de Parfum
+Male	Strong	Oriental	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Strong	Sweet	Montblanc Explorer Eau de Parfum
+Female	Strong	Woody	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Strong	Woody	Giorgio Armani Code Eau de Toilette
+Female	Strong	Aromatic	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Aromatic	Amouage Interlude Man Eau de Parfum
+Female	Strong	Oriental	Chanel Cristalle Eau de Parfum
+Male	Strong	Oriental	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Strong	Sweet	Montblanc Explorer Eau de Parfum
+Female	Strong	Woody	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Strong	Woody	Giorgio Armani Code Eau de Toilette
+Female	Strong	Aromatic	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Aromatic	Amouage Interlude Man Eau de Parfum
+Female	Strong	Oriental	Chanel Cristalle Eau de Parfum
+Male	Strong	Oriental	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Strong	Sweet	Montblanc Explorer Eau de Parfum
+Female	Strong	Woody	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Strong	Woody	Giorgio Armani Code Eau de Toilette
+Female	Strong	Aromatic	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Aromatic	Amouage Interlude Man Eau de Parfum
+Female	Strong	Oriental	Chanel Cristalle Eau de Parfum
+Male	Strong	Oriental	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Strong	Sweet	Montblanc Explorer Eau de Parfum
+Female	Strong	Woody	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Strong	Woody	Giorgio Armani Code Eau de Toilette
+Female	Strong	Aromatic	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Aromatic	Amouage Interlude Man Eau de Parfum
+Female	Strong	Oriental	Chanel Cristalle Eau de Parfum
+Male	Strong	Oriental	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Strong	Sweet	Montblanc Explorer Eau de Parfum
+Female	Strong	Woody	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Strong	Woody	Giorgio Armani Code Eau de Toilette
+Female	Strong	Aromatic	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Aromatic	Amouage Interlude Man Eau de Parfum
+Female	Strong	Oriental	Chanel Cristalle Eau de Parfum
+Male	Strong	Oriental	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Strong	Sweet	Montblanc Explorer Eau de Parfum
+Female	Strong	Woody	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Strong	Woody	Giorgio Armani Code Eau de Toilette
+Female	Strong	Aromatic	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Aromatic	Amouage Interlude Man Eau de Parfum
+Female	Strong	Oriental	Chanel Cristalle Eau de Parfum
+Male	Strong	Oriental	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Strong	Sweet	Montblanc Explorer Eau de Parfum
+Female	Strong	Woody	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Strong	Woody	Giorgio Armani Code Eau de Toilette
+Female	Strong	Aromatic	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Aromatic	Amouage Interlude Man Eau de Parfum
+Female	Strong	Oriental	Chanel Cristalle Eau de Parfum
+Male	Strong	Oriental	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
+Male	Strong	Sweet	Montblanc Explorer Eau de Parfum
+Female	Strong	Woody	Tom Ford Tobacco Vanille Eau de Parfum
+Male	Strong	Woody	Giorgio Armani Code Eau de Toilette
+Female	Strong	Aromatic	Yves Saint Laurent Black Opium Eau de Parfum
+Male	Strong	Aromatic	Amouage Interlude Man Eau de Parfum
+Female	Strong	Oriental	Chanel Cristalle Eau de Parfum
+Male	Strong	Oriental	Dolce & Gabbana Light Blue Eau Intense Pour Homme Eau de Parfum
+Female	Subtle	Leathery	Guerlain La Petite Robe Noire Eau de Parfum
+Male	Subtle	Leathery	Viktor & Rolf Spicebomb Extreme Eau de Parfum
+Female	Subtle	Fresh	Michael Kors Sexy Ruby Eau de Parfum
+Male	Subtle	Fresh	Paco Rabanne Invictus Aqua Eau de Toilette
+Female	Subtle	Floral	Thierry Mugler Angel Eau de Parfum
+Male	Subtle	Floral	Armani Code Profumo Eau de Parfum
+Female	Subtle	Fruity	Gucci Bloom Nettare di Fiori Eau de Parfum 
+Male	Subtle	Fruity	Tom Ford Tobacco Oud Eau de Parfum
+Female	Subtle	Sweet	Estee Lauder Beautiful Eau de Parfum
+Male	Subtle	Sweet	Chanel Bleu de Chanel Eau de Parfum
+Female	Subtle	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Subtle	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Subtle	Aromatic	 Bottega Veneta Knot Eau de Parfum               
+Male	Subtle	Aromatic	 Tom Ford Oud Wood Eau de Parfum                 
+Female	Subtle	Oriental	 Jo Malone London Lime Basil & Mandarin Cologne 
+Male	Subtle	Oriental	 Dior Homme Cologne                              
+Female	Balanced	Leathery	 Chloe Eau de Parfum                             
+Male	Balanced	Leathery	 Paco Rabanne 1 Million Cologne                  
+Female	Balanced	Fresh	 Marc Jacobs Daisy Eau de Toilette               
+Male	Balanced	Fresh	 Yves Saint Laurent L'Homme Ultime Eau de Parfum 
+Female	Balanced	Floral	 Viktor & Rolf Bonbon Eau de Parfum              
+Male	Balanced	Floral	 Thierry Mugler A*Men Pure Malt Eau de Toilette  
+Female	Balanced	Fruity	 Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum 
+Male	Balanced	Fruity	 Dior Sauvage Eau de Parfum                      
+Female	Balanced	Sweet	 Calvin Klein Eternity Eau de Parfum             
+Male	Balanced	Sweet	 Acqua di Parma Colonia Club Eau de Cologne      
+Female	Balanced	Woody	 Tom Ford Black Orchid Eau de Parfum             
+Male	Balanced	Woody	 Yves Saint Laurent La Nuit de L'Homme Eau de Parfum 
+Female	Balanced	Aromatic	 Bottega Veneta Parco Palladiano IV Eau de Parfum 
+Male	Balanced	Aromatic	 Maison Margiela Replica Jazz Club Eau de Toilette 
+Female	Balanced	Oriental	 Atelier Cologne Orange Sanguine Cologne Absolue 
+Male	Balanced	Oriental	 Chanel Allure Homme Sport Eau Extreme Eau de Parfum 
+Female	Strong	Leathery	 Lancome La Vie Est Belle Eau de Parfum          
+Male	Strong	Leathery	 Dior Homme Eau de Toilette                      
+Female	Strong	Fresh	 DKNY Be Delicious Eau de Parfum                 
+Male	Strong	Fresh	 Versace Eros Eau de Toilette                    
+Female	Strong	Floral	 Prada Candy Eau de Parfum                       
+Male	Strong	Floral	 Carolina Herrera CH Men Privé Eau de Toilette   
+Female	Strong	Fruity	 Diptyque Tam Dao Eau de Parfum                  
+Male	Strong	Fruity	 Creed Aventus Eau de Parfum                     
+Female	Strong	Sweet	Issey Miyake L'Eau d'Issey Eau de Parfum
